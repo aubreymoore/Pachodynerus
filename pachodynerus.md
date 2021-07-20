@@ -5,7 +5,8 @@
 [Symbiota Collections of Arthropods Network (SCAN)](https://scan-bugs.org/portal/collections/list.php?taxa=Pachodynerus%20nasidens&thes=1&type=1&db=all&page=1)
 
 * 443 records for *Pachodynerus nasidens*
-* 1 specimen in the UOG collection; [Collected by on Guam by Maehler in 1948](https://scan-bugs.org/portal/collections/listtabledisplay.php?db=180;&taxa=Pachodynerus&thes=1&type=1&occindex=1&sortfield1=Catalog Number&sortfield2=&sortorder=asc). Lucky to find this record because the species epithet was misspelled (*nasdems*). This has been corrected.
+* 1 specimen in the UOG collection; [Collected by on Guam by Maehler in 1948](https://scan-bugs.org/portal/collections/listtabledisplay.php?db=180;&taxa=Pachodynerus&thes=1&type=1&occindex=1&sortfield1=Catalog Number&sortfield2=&sortorder=asc). 
+Lucky to find this record because the species epithet was misspelled (*nasdems*). This has been corrected.
 
 
 [GBIF](https://www.gbif.org/occurrence/search?offset=120&q=Pachodynerus%20nasidens&taxon_key=1328213)
