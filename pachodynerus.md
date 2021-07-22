@@ -36,7 +36,8 @@ Lucky to find this record because the species epithet was misspelled (*nasdems*)
 
 [Bourquin 2002. Invertebrate survey - Anatahan, Northern Mariana Islands](http://guaminsects.net/doc/misc/Bourquin2002%20Anatahan%20invert%20survey.doc)
 
-* *Pachodynerus nasidens* not collected during this survey
+* "*Pachodynerus nasidens* Latr.    Not previously collected from Anatahan, found commonly during this survey." Note that this entery is incorrectly listed under Megachilidae. Should be under Vespidae.
+
 
 [Evenhuis et al. 2010. Terrestrial Arthropod Surveys on Pagan Island, Northern Marianas](http://pbs.bishopmuseum.org/pdf/pagan-report.pdf)
 
